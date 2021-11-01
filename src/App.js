@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Component } from "react";
 import JokeList from "./JokeList";
 
 class App extends Component {
